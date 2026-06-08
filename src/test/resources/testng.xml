@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="GUI Elements Automation Suite" verbose="2">
+    <test name="testautomationpractice.blogspot.com – Full GUI Suite">
+        <classes>
+            <class name="com.automation.tests.GuiElementsTest"/>
+        </classes>
+    </test>
+</suite>

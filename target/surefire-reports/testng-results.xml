@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-08T15:17:50 IST" name="GUI Elements Automation Suite" finished-at="2026-06-08T15:18:24 IST" duration-ms="34123">
+    <groups>
+    </groups>
+    <test started-at="2026-06-08T15:17:50 IST" name="testautomationpractice.blogspot.com – Full GUI Suite" finished-at="2026-06-08T15:18:24 IST" duration-ms="34123">
+      <class name="com.automation.tests.GuiElementsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:43 IST" name="setUp" finished-at="2026-06-08T15:17:50 IST" duration-ms="6750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initPage()[pri:0, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:50 IST" name="initPage" finished-at="2026-06-08T15:17:50 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPage -->
+        <test-method signature="tc01_PageTitleValidation()[pri:1, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:50 IST" name="tc01_PageTitleValidation" description="Validate page title of the application" finished-at="2026-06-08T15:17:50 IST" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_PageTitleValidation -->
+        <test-method signature="tc02_NameField()[pri:2, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:50 IST" name="tc02_NameField" description="Enter text in the Name field" finished-at="2026-06-08T15:17:51 IST" duration-ms="1030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_NameField -->
+        <test-method signature="tc03_EmailField()[pri:3, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:51 IST" name="tc03_EmailField" description="Enter text in the Email field" finished-at="2026-06-08T15:17:52 IST" duration-ms="979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_EmailField -->
+        <test-method signature="tc04_PhoneField()[pri:4, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:52 IST" name="tc04_PhoneField" description="Enter text in the Phone field" finished-at="2026-06-08T15:17:53 IST" duration-ms="922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_PhoneField -->
+        <test-method signature="tc05_AddressField()[pri:5, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:53 IST" name="tc05_AddressField" description="Enter text in the Address textarea" finished-at="2026-06-08T15:17:54 IST" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05_AddressField -->
+        <test-method signature="tc06_RadioButton()[pri:6, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:54 IST" name="tc06_RadioButton" description="Select Male radio button" finished-at="2026-06-08T15:17:55 IST" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc06_RadioButton -->
+        <test-method signature="tc07_Checkbox()[pri:7, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:55 IST" name="tc07_Checkbox" description="Select Sunday checkbox" finished-at="2026-06-08T15:17:56 IST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc07_Checkbox -->
+        <test-method signature="tc08_Dropdowns()[pri:8, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:56 IST" name="tc08_Dropdowns" description="Select Country, Color and Animal dropdowns" finished-at="2026-06-08T15:17:58 IST" duration-ms="2615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc08_Dropdowns -->
+        <test-method signature="tc09_DatePickers()[pri:9, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:17:58 IST" name="tc09_DatePickers" description="Set all 3 date pickers" finished-at="2026-06-08T15:18:03 IST" duration-ms="4151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc09_DatePickers -->
+        <test-method signature="tc10_FileUpload()[pri:10, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:03 IST" name="tc10_FileUpload" description="Upload single and multiple files" finished-at="2026-06-08T15:18:04 IST" duration-ms="1477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc10_FileUpload -->
+        <test-method signature="tc11_WikipediaSearch()[pri:11, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:04 IST" name="tc11_WikipediaSearch" description="Search Selenium in Wikipedia widget" finished-at="2026-06-08T15:18:05 IST" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc11_WikipediaSearch -->
+        <test-method signature="tc12_DynamicButton()[pri:12, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:05 IST" name="tc12_DynamicButton" description="Toggle Dynamic START/STOP button" finished-at="2026-06-08T15:18:10 IST" duration-ms="4938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc12_DynamicButton -->
+        <test-method signature="tc13_MouseHover()[pri:13, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:10 IST" name="tc13_MouseHover" description="Hover over Point Me button" finished-at="2026-06-08T15:18:12 IST" duration-ms="1576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc13_MouseHover -->
+        <test-method signature="tc14_DoubleClick()[pri:14, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:12 IST" name="tc14_DoubleClick" description="Double click Copy Text button to copy field1 to field2" finished-at="2026-06-08T15:18:14 IST" duration-ms="1984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc14_DoubleClick -->
+        <test-method signature="tc15_DragAndDrop()[pri:15, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:14 IST" name="tc15_DragAndDrop" description="Drag draggable element onto droppable target" finished-at="2026-06-08T15:18:15 IST" duration-ms="1688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc15_DragAndDrop -->
+        <test-method signature="tc16_Slider()[pri:16, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:15 IST" name="tc16_Slider" description="Move the slider 100px to the right" finished-at="2026-06-08T15:18:17 IST" duration-ms="1727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc16_Slider -->
+        <test-method signature="tc17_Alerts()[pri:17, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:17 IST" name="tc17_Alerts" description="Handle Simple, Confirm and Prompt alerts" finished-at="2026-06-08T15:18:20 IST" duration-ms="2986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc17_Alerts -->
+        <test-method signature="tc18_MiscFeatures()[pri:18, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:20 IST" name="tc18_MiscFeatures" description="Hyperlink count, scroll, combobox, new tab, popup" finished-at="2026-06-08T15:18:24 IST" duration-ms="3922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc18_MiscFeatures -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.GuiElementsTest@5cee5251]" started-at="2026-06-08T15:18:24 IST" name="tearDown" finished-at="2026-06-08T15:18:24 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.tests.GuiElementsTest -->
+    </test> <!-- testautomationpractice.blogspot.com – Full GUI Suite -->
+  </suite> <!-- GUI Elements Automation Suite -->
+</testng-results>
